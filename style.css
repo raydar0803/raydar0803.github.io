@@ -27,7 +27,7 @@ nav
   left : 0;
   width : 100%;
   background-color : white;
-  box-shadow : 5px 10px 30px rgba(0,0,0,0.05);
+  box-shadow : 5px 10px 30px rgba(0,0,0,0.02);
   z-index : 1;
   
 }
@@ -59,10 +59,10 @@ a
 }
 .hey
 {
-  color : rgb(96, 218, 218);
+  color : #39bfbd;
   font-weight : 500;
   font-size : 0.9em;
-  border-bottom: 2px solid rgb(96, 218, 218) ;
+  border-bottom: 2px solid #39bfbd ;
 }
 .image 
 {
@@ -94,13 +94,13 @@ a
 .text h1
 {
  font-size : 3.5em;
- color :  #193366;
+ color :  #1c3548;
  margin : 0px 0px 10px 0px;
  line-height: 60px;
 }
 .text p
 {
-  color : #8c8c8c;
+  color : grey;
 }
 .resume
 {
@@ -128,5 +128,3 @@ transition : all ease 0.2s;
   box-shadow : 5px 10px 30px rgba(24, 139, 119, 0.05);
   transition : all ease 0.2s;
 }
-
-
